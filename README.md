@@ -37,4 +37,4 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/m1ch93l/vsc-java.git
    ```
-2. Open the project in Visual Studio Code.
+2. Open the project in Visual Studio Code.added a new line 
